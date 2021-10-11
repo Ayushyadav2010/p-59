@@ -1,0 +1,127 @@
+body{
+    text-align: center;
+   background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+}
+.menu{
+list-style: none;
+    position: absolute;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+   }
+.links{
+    float: left;
+    padding-top:10px;
+    padding-left: 10px;
+    padding-right: 10px  
+}
+.links:hover{
+    font-size:22px;
+ font-family:fantasy;
+}
+.links a:hover{
+  color:#F06292;
+}
+#welcome{
+    background: rgb(195,34,157);
+background: linear-gradient(0deg, rgba(195,34,157,1) 0%, rgba(108,184,240,1) 0%, rgba(207,67,157,1) 100%);
+}
+.line{
+   height: 6px;
+    background-color:  #DE5D83;
+    width: 600px;
+    margin: 8px auto;   
+}
+h3{
+   font-family: fantasy;
+  font-size: 45px;
+  color: #a4fdff;
+  text-shadow: 2px 2px #db3d7d;
+}
+#About{
+    font-family: serif;
+    background: rgb(144,232,127);
+background: linear-gradient(90deg, rgba(144,232,127,0.7740138291644783) 34%, rgba(253,29,29,0.7740138291644783) 50%, rgba(252,176,69,1) 100%);
+
+}
+h4{
+     font-family: fantasy;
+  font-size: 30px;
+  color: greenyellow;
+  text-shadow: 2px 2px #db3d7d;
+
+}
+#Games{
+    background: rgb(195,34,157);
+background: linear-gradient(0deg, rgba(195,34,157,1) 0%, rgba(108,184,240,1) 0%, rgba(207,67,157,1) 100%);
+
+}
+li{
+    background-color: thistle;
+}
+h5{
+ font-family: cursive;
+  font-size: 30px;
+  color:fuchsia;
+  text-shadow: 2px 2px #db3d7d;
+   
+}
+h2{
+    color: blue;
+}
+#MyInspiration{
+ 
+}
+.line{
+    height: 10px;
+    width: 55px;
+    background-color: greenyellow;
+    margin: 1px auto;
+  
+} 
+h6{
+  color:red;
+  font-family:cursive;
+  font-size: 30px;
+}
+#Akasy{
+  width: 250px;
+  transition: transform .2s;
+  border: 10px solid #a8a5a5;
+  height:200px;
+  }
+#Akasy:hover{
+  transform: scale(1.1);
+}
+#Work{
+  background-color:black;
+}
+#ronaldo{
+   width: 250px;
+  transition: transform .2s;
+  border: 10px solid #a8a5a5;
+  height:200px;
+   
+}
+.Subway{
+  margin:10px;
+  width: 250px;
+  transition: transform .2s;
+  border: 10px solid #B0BEC5;
+  height:200px;
+}
+#ronaldo:hover{
+    transform: scale(1.1);
+}
+.Subway:hover{
+   transform: scale(0.9);
+}
+h7{
+  font-size:40px;
+  font-family:fantasy;
+}
+h8{
+    font-size: 25px;
+    font-family: fantasy;
+}
